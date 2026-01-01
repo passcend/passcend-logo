@@ -1,0 +1,17 @@
+<svg width="449" height="79" viewBox="0 0 449 79" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Passcend Text -->
+  <text x="20" y="52" font-family="Arial, sans-serif" font-size="36" font-weight="600" fill="#000000" letter-spacing="-0.5">Passcend</text>
+
+  <!-- Icon Circle Background -->
+  <circle cx="410" cy="39.5" r="28" fill="#0064FF"/>
+
+  <!-- Lock Icon -->
+  <g transform="translate(410, 39.5)">
+    <!-- Lock Body -->
+    <rect x="-8" y="2" width="16" height="12" rx="2" fill="white"/>
+    <!-- Lock Shackle -->
+    <path d="M -6 2 L -6 -4 A 6 6 0 0 1 6 -4 L 6 2" stroke="white" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <!-- Keyhole -->
+    <circle cx="0" cy="6" r="2" fill="#0064FF"/>
+  </g>
+</svg>
